@@ -17,13 +17,13 @@
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 <table>
 <tr>
 <td width="50%">
 
-### 🖥️ Dashboard Overview
+###  Dashboard Overview
 ![Dashboard Overview](assets/image1.png)
 
 *The main Scouter Dashboard interface showing real-time CPU monitoring, attack statistics, and the live traffic log panel.*
@@ -31,7 +31,7 @@
 </td>
 <td width="50%">
 
-### ⚡ Fusion Mode Active
+###  Fusion Mode Active
 ![Fusion Mode](assets/image2.png)
 
 *The Fusion Engine engaged — multiprocessing in action, scanning network packets across all CPU cores simultaneously.*
@@ -41,7 +41,7 @@
 <tr>
 <td width="50%">
 
-### 🎯 DDoS Detection
+###  DDoS Detection
 ![DDoS Detection](assets/image3.png)
 
 *Real-time threat detection identifying malicious DDoS packets, with attack counters and top targeted ports analysis.*
@@ -49,7 +49,7 @@
 </td>
 <td width="50%">
 
-### 📊 Analysis Results
+###  Analysis Results
 ![Analysis Results](assets/image4.png)
 
 *Completed scan results showing total packets analyzed, DDoS vs benign traffic breakdown, and performance metrics.*
@@ -59,7 +59,7 @@
 <tr>
 <td colspan="2" align="center">
 
-### 🏆 Performance Benchmark
+###  Performance Benchmark
 ![Performance Benchmark](assets/image5.png)
 
 *Head-to-head comparison: Sequential "Base Form" vs Parallel "Fusion Mode" — demonstrating significant speed improvements using multiprocessing.*
@@ -70,19 +70,19 @@
 
 ---
 
-## 🚀 The Core Philosophy
+##  The Core Philosophy
 
 This project follows the **Dragon Ball** methodology for high-performance computing:
 
 | Mode | Description | Performance |
 |:---:|:---|:---:|
-| 🐢 **Base Form** | Single-core Pandas processing. Reliable, but slow. | 1x |
-| 🐉 **Fusion Technique** | Multiprocessing Pool splitting logs into chunks for simultaneous scanning. | Up to 4x+ |
-| 👁️ **The Scouter** | A Textual-based TUI dashboard providing real-time threat intelligence. | — |
+|  **Base Form** | Single-core Pandas processing. Reliable, but slow. | 1x |
+|  **Fusion Technique** | Multiprocessing Pool splitting logs into chunks for simultaneous scanning. | Up to 4x+ |
+|  **The Scouter** | A Textual-based TUI dashboard providing real-time threat intelligence. | — |
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category | Technologies |
 |:---|:---|
@@ -94,7 +94,7 @@ This project follows the **Dragon Ball** methodology for high-performance comput
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```bash
 # Clone the repository
@@ -116,7 +116,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🎮 Usage
+##  Usage
 
 ### Launch the Scouter Dashboard (Terminal)
 
@@ -141,7 +141,7 @@ Then open: **http://127.0.0.1:8000**
 
 ---
 
-## 📊 Benchmarks
+##  Benchmarks
 
 Run the performance showdown to compare sequential vs parallel processing:
 
@@ -179,7 +179,7 @@ PacketHunter/
 
 ---
 
-## 🔍 Dataset
+##  Dataset
 
 This project uses the **CIC-IDS2017** dataset, a comprehensive intrusion detection dataset containing:
 
@@ -189,7 +189,7 @@ This project uses the **CIC-IDS2017** dataset, a comprehensive intrusion detecti
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to:
 
@@ -201,7 +201,7 @@ Contributions are welcome! Feel free to:
 
 ---
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
