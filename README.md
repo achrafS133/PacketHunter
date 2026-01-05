@@ -49,20 +49,20 @@
 </td>
 <td width="50%">
 
-###  Analysis Results
-![Analysis Results](assets/image4.png)
+###  Settings Configuration
+![Settings](assets/image4.png)
 
-*Completed scan results showing total packets analyzed, DDoS vs benign traffic breakdown, and performance metrics.*
+*Configure detection thresholds, processing modes, and customize your PacketHunter scanning parameters.*
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-###  Performance Benchmark
-![Performance Benchmark](assets/image5.png)
+###  Restart & Reset
+![Restart](assets/image5.png)
 
-*Head-to-head comparison: Sequential "Base Form" vs Parallel "Fusion Mode" — demonstrating significant speed improvements using multiprocessing.*
+*Reset the scanner state and restart analysis — clear previous results and begin a fresh scan cycle.*
 
 </td>
 </tr>
